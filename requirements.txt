@@ -1,0 +1,16 @@
+opencv-python
+numpy
+pillow
+scikit-image
+matplotlib
+pytesseract
+torch
+transformers
+pandas
+openpyxl
+langchain    
+langchain-openai    
+openai
+numpy
+pandas    
+python-dotenv    

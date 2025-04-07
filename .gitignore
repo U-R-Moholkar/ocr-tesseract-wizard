@@ -1,0 +1,83 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# MacOS system files
+.DS_Store
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# TensorBoard logs
+logs/
+events.out.tfevents.*
+
+# Saved models and checkpoints
+checkpoints/
+*.h5
+*.ckpt
+*.pt
+*.pth
+model/
+models/
+
+# Cache files
+*.log
+*.tmp
+*.bak
+.cache/
+*.pickle
+*.pkl
+*.joblib
+
+# Coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+
+# Test results
+junit-*.xml
+
+# PyInstaller
+*.spec
+
+# Unit test / pytest
+.pytest_cache/
+
+# Static analysis
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+
+
+
