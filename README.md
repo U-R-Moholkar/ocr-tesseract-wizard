@@ -4,7 +4,7 @@
 ```markdown
 # 📄 OCR-Based Form Parser with LLM JSON Extraction
 
-This project processes scanned or photographed images to extract clean, structured data using a pipeline of image preprocessing, skew correction, OCR, and LLM-powered parsing.
+This project processes scanned or photographed documents to extract clean, structured data using a pipeline of image preprocessing, skew correction, OCR, and LLM-powered parsing.
 
 ---
 
@@ -182,7 +182,7 @@ else:
 
 ## 📷 Example Input
 
-> A scanned or photographed form (e.g., paper patient intake,appointment document, bank statement, transaction documents)
+> A scanned or photographed document (e.g., paper patient intake,appointment document, bank statement, transaction documents)
 
 ## 📤 Output
 
